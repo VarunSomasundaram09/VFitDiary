@@ -7,6 +7,8 @@ VFitDiary is a full-stack fitness tracking platform designed to help users plan 
 The application uses **React + TypeScript** for the frontend, **Spring Boot + Java** for the backend, and **MySQL** for persistent data storage.
 
 ---
+### 🚀 Live Demo
+👉 [VFitDiary](https://vfit-diary.vercel.app/)
 
 ## ✨ Features
 
